@@ -10,10 +10,6 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 [505](song/feb/505.md)
 
-### [Jhon Lennon](writer/john_lennon.md)
-
-[Look at me](song/feb/look_at_me.md)
-
 ### [Queen](writer/queen.md)
 
 [We Are The Champions](song/jan/we_are_the_champions.md)

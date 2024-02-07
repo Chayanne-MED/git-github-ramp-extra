@@ -16,8 +16,8 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 ### [Queen](writer/queen.md) | queen@onlyrics.magazine
 
-[We Are The Champions](song/jan/we_are_the_champions.md)
+[Another One Bites the Dust](song/feb/another_one_bites_the_dust.md)
 
 ### [The Killers](writer/the_killers) | the.killers@onlyrics.magazine
 
-[Mr. Brightside](song/jan/mr_brightside.md)
+[Somebody Told Me](song/feb/somebody_told_me.md)

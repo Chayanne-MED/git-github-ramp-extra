@@ -8,11 +8,7 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 ### [Arctic Monkeys](/writer/arctic_monkeys.md)
 
-[Fluorescent Adolescent](song/jan/fluorescent_adolescent.md)
-
-### [Jhon Lennon](writer/john_lennon.md)
-
-[Imagine](song/jan/vanilla-panna-cotta.md)
+[505](song/feb/505.md)
 
 ### [Queen](writer/queen.md)
 
@@ -20,4 +16,19 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 ### [The Killers](writer/the_killers)
 
-[Mr. Brightside](song/jan/mr_brightside.md)
+[Somebody Told Me](song/feb/somebody_told_me.md)
+
+
+## Last Month's Favorites
+
+### [Arctic Monkeys](/writer/arctic_monkeys.md)
+
+[Fluorecent Adolescent](song/jan/fluorecent_adolescent.md)
+
+### [Queen](writer/queen.md)
+
+[We Are The Champions](song/jan/we_are_the_champions.md)
+
+### [The Killers](writer/the_killers)
+
+[Mr Brightside](song/jan/mr_brightside.md)
